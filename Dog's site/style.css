@@ -45,7 +45,7 @@
 }
 
 .dobermaninfo2{
-	width: 774px;
+	width: 1200px;
 	height: 393px;
 	left: calc(50% - 542px/2 - 362px);
 	top: 927px;
@@ -79,4 +79,11 @@ a.smoothcollie{
 	left: calc(50% - 300px/2 + 475px);
 	top: 178px;
 	
+}
+.imdog{
+	position: absolute;
+	width: 464px;
+	height: 584px;
+	left: calc(50% - 464px/2 + 391px);
+	top: 349px;
 }
