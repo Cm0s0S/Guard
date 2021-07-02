@@ -1,0 +1,88 @@
+.headline{
+	position: absolute;
+	width: 1335px;
+	height: 0px;
+	left: calc(50% - 1335px/2 + 0.5px);
+	top: 146px;
+
+	border: 7px solid #000000;
+}
+
+.logo{
+	
+	position: absolute;
+	width: 444px;
+	height: 150px;
+	left: calc(50% - 444px/2 - 455px);
+	top: 28px;
+
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 144px;
+	line-height: 166px;
+	display: flex;
+	align-items: flex-end;
+
+	color: #000000;
+}
+.doginfo{
+	position: absolute;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 41px;
+	text-align: justify;
+ 	color: #000000;
+}
+
+.dobermaninfo1{
+	width: 774px;
+	height: 583px;
+	left: calc(50% - 774px/2 - 237px);
+	top: 300px;
+}
+
+.dobermaninfo2{
+	width: 774px;
+	height: 393px;
+	left: calc(50% - 542px/2 - 362px);
+	top: 927px;
+}
+
+a.buttons {
+	position: absolute;
+	width: 300px;
+	height: 72px;
+	color: 000000;
+	text-decoration: none;
+	font-size: 24pt;
+	font-family:Arial;
+	align-items: center;
+	text-align: center;
+	font-style: normal;
+	font-weight: normal;
+	border: 7px solid #000000;
+}
+
+a.doberman{
+	left: calc(50% - 300px/2 - 474px);
+	top: 178px;
+}
+
+a.otterhound{
+	left: calc(50% - 300px/2 - 158px);
+	top: 178px;
+}
+
+a.germanspitz{
+	left: calc(50% - 300px/2 + 159px);
+	top: 178px;
+}
+
+a.smoothcollie{
+	left: calc(50% - 300px/2 + 475px);
+	top: 178px;
+	
+}
