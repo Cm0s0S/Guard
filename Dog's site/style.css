@@ -54,10 +54,8 @@
 a.buttons {
 	position: absolute;
 	width: 300px;
-	color: 000000;
 	text-decoration: none;
-	font-size: 24pt;
-	font-family:Arial;
+	font: 24pt Arial;
 	text-align: center;
 	border: 7px solid #000000;
 }
